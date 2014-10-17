@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[psl:home|Door43 (psl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-psl|d43-psl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-psl/archive/master.zip|d43-psl.zip]]
+
+**Recent Changes**
+{{changes>ns = psl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/psl|Ethnologue data]]
+
